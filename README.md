@@ -15,7 +15,7 @@ To create the Teams Checklist app package:
 1. Navigate to PreCompiledApp folder.
 1. Open the actionManifest.json file in a text editor.
 1. Change the placeholder fields in the manifest to values appropriate for your organization.
-    * packageID - A unique identifier for this app in reverse domain notation. E.g: com.contoso.Checklistapp. (Max length: 64)
+    * packageID - A unique identifier for this app in reverse domain notation. E.g: com.contoso.checklistapp. (Max length: 64)
     * developer.[]()name ([What's this?](https://docs.microsoft.com/en-us/microsoftteams/platform/resources/schema/manifest-schema#developer))
     * developer.websiteUrl
     * developer.privacyUrl
